@@ -1,4 +1,4 @@
 # Calculator
 Calculator
-# Kotlin
-# Android Studio
+Kotlin
+Android Studio
